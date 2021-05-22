@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RenderEffectSample</string>
+    <string name="hint_tile_mode">TileMode(required parameter)</string>
+</resources>
