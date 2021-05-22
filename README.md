@@ -9,6 +9,10 @@ Android 12 から Viewのぼかし機能がAndroid APIに追加されたので�
 [View#setRenderEffect](https://developer.android.com/reference/android/view/View#setRenderEffect(android.graphics.RenderEffect))<br>
 [setBackgroundBlurRadius](https://developer.android.com/reference/android/view/Window#setBackgroundBlurRadius(int))<br>
 `setBackgroundBlurRadius`はWindowコンテンツで利用。<br>
+`View#setRenderEffect`の引数 radiusX, radiusYに `0.0`を指定すると以下のExceptionが発生するので注意！<br>
+```
+java.lang.IllegalArgumentException: nativePtr is null
+ ```
 
 # Viewのぼかし機能
 
