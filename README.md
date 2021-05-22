@@ -18,3 +18,6 @@ Android 12 から Viewのぼかし機能がAndroid APIに追加されたので�
 # capture
 
 <img src="https://user-images.githubusercontent.com/16476224/119225374-51d1c300-bb3e-11eb-8ed7-9770f6f70b99.gif" width=320 />
+
+# その他参考にした記事
+[android-12-developer-preview-2](https://android-developers.googleblog.com/2021/03/android-12-developer-preview-2.html)
