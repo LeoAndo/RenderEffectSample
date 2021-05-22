@@ -1,4 +1,4 @@
-# Rendereffectsample
+# RenderEffectSample
 RenderEffect sample (Android 12 +)
 
 # アプリ概要
