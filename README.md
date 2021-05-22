@@ -6,7 +6,9 @@ Android 12 から Viewのぼかし機能がAndroid APIに追加されたので�
 
 # API
 [RenderEffect](https://developer.android.com/reference/android/graphics/RenderEffect)<br>
-[View#setRenderEffect](https://developer.android.com/reference/android/view/View#setRenderEffect(android.graphics.RenderEffect))
+[View#setRenderEffect](https://developer.android.com/reference/android/view/View#setRenderEffect(android.graphics.RenderEffect))<br>
+[setBackgroundBlurRadius](https://developer.android.com/reference/android/view/Window#setBackgroundBlurRadius(int))<br>
+`setBackgroundBlurRadius`はWindowコンテンツで利用。<br>
 
 # Viewのぼかし機能
 
